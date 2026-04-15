@@ -11,7 +11,7 @@ repository               : "ngominhhoang/ngominhhoang.github.io"
 
 # Site Author
 author:
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Hoang Ngo"
   pronouns         :
   bio              : "Ph.D. student in Computer Science at the University of Florida. My research lies at the intersection of quantum computing, machine learning, and optimization, with a focus on NISQ systems and real-world quantum applications."
