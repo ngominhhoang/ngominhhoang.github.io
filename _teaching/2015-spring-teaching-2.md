@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 2"
+title: "Associate Lecturer in Computer Networks and Socket Programming"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate courses"
+permalink: /teaching/2020-vnu-teaching
+venue: "VNU – University of Engineering and Technology"
+date: 2020-01-01
+location: "Hanoi, Vietnam"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I served as an Associate Lecturer at **VNU – University of Engineering and Technology** from 2020 to 2022.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+My teaching responsibilities included:
+- teaching and coordinating large-enrollment courses in **Computer Networks** and **Socket Programming**,
+- managing lectures, labs, and assessments,
+- mentoring undergraduate students in research development and academic writing.
