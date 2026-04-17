@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at the University of Florida. My research centers on **Quantum-AI Synergy**: the two-way interaction between quantum computing and artificial intelligence, where machine learning helps improve quantum systems, and quantum methods open new opportunities for AI.
+I am a Ph.D. student in Computer Science at the University of Florida. My research centers on <strong>Quantum-AI Synergy</strong>: the two-way interaction between quantum computing and artificial intelligence, where machine learning helps improve quantum systems, and quantum methods open new opportunities for AI.
 
-On one side, I develop **AI for Quantum** methods to address core challenges in near-term quantum systems, including resource optimization, routing, and fidelity enhancement. On the other side, I study **Quantum for AI**, with interests in privacy-preserving quantum learning, application-driven quantum machine learning, and distributed quantum learning.
+On one side, I develop <strong>AI for Quantum</strong> methods to address core challenges in near-term quantum systems, including resource optimization, routing, and fidelity enhancement. On the other side, I study <strong>Quantum for AI</strong>, with interests in privacy-preserving quantum learning, application-driven quantum machine learning, and distributed quantum learning.
 
 My recent work includes reinforcement learning for the minor embedding problem, learning-based fidelity optimization for noisy quantum circuits, privacy amplification through inherent quantum noise, and quantum machine learning for smart-grid anomaly detection.
 
